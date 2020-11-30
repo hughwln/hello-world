@@ -1,2 +1,2 @@
 # hello-world
-The first one
+Lear pygame
